@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669057100 source:a:\csharppr\С++\c\1.6ЛР_Леська_Дмитра_ІМ-21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+
